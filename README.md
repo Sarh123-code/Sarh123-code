@@ -27,3 +27,13 @@ Most of my academic work is hosted on private university servers. However, I use
     LinkedIn: www.linkedin.com/in/sarah-razafindrakoto-58093b336
     
     Email: razafindrakotosarah7@gmail.com
+
+## 🚧 Currently Working On
+
+I am currently focusing on my **Computer Graphics** and **Image Processing** projects at the University of Bordeaux:
+
+* 🖌️ **Ray Tracing Engine Series**: Building a rendering engine from scratch.
+  * **[Part 1: Fundamentals](https://sarh123-code.github.io/3D--recursive-ray-tracing/)**: Implementation of Phong lighting, shadows, and recursive reflections.
+  * **[Part 2: Meshes & BVH](https://sarh123-code.github.io/3D-meshes-acceleration-structures/)**: Integration of 3D mesh loading using the Möller-Trumbore algorithm and performance optimization via Bounding Volume Hierarchies (BVH).
+* 🔬 **[Image Processing Suite]**: Low-level pixel manipulation and spatial representation using C and libimago.
+  * *Focus: RGB channel decomposition, bit-depth analysis, and procedural generation.*
