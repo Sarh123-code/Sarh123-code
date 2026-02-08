@@ -10,6 +10,8 @@ Master’s Student in Computer Science (Image & Sound) @ University of Bordeaux 
     
     💼 Looking for: A professional Apprenticeship (Alternance) starting September 2026 in 3D development or Image Processing.
 
+    🌐 Portfolio & Web : https://sarh123-code.github.io/site-profil/
+
 🛠 Tech & Exploration
 
     Languages: C++, Python, C, Java, Ocaml, Pascal
