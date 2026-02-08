@@ -10,7 +10,7 @@ Master’s Student in Computer Science (Image & Sound) @ University of Bordeaux 
     
     💼 Looking for: A professional Apprenticeship (Alternance) starting September 2026 in 3D development or Image Processing.
 
-    🌐 Portfolio & Web : https://sarh123-code.github.io/site-profil/
+    🌐 Portfolio & Web : (https://sarh123-code.github.io/site-profil/)[https://sarh123-code.github.io/site-profil/]
 
 🛠 Tech & Exploration
 
@@ -26,7 +26,7 @@ Most of my academic work is hosted on private university servers. However, I use
 
 📫 Reach Me
 
-    LinkedIn: www.linkedin.com/in/sarah-razafindrakoto-58093b336
+    LinkedIn: (www.linkedin.com/in/sarah-razafindrakoto-58093b336)[www.linkedin.com/in/sarah-razafindrakoto-58093b336]
     
     Email: razafindrakotosarah7@gmail.com
 
