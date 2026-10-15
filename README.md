@@ -2,8 +2,6 @@
 
 Master's student in Computer Science (Image and Sound) at the University of Bordeaux, fascinated by 3D rendering and the mathematics behind pixel transformations.
 
-**Portfolio**: [sarh123-code.github.io/site-profil](https://sarh123-code.github.io/site-profil/)
-
 ## Studies
 
 After a Bachelor's degree in Computer Science at the University of Poitiers, I joined the Image and Sound track of the Master's at Bordeaux. In the first year, I worked on 3D worlds with C++ and OpenGL, image processing in C with libimago and FFTW, and parallel programming with OpenMP. This year, I am going further with advanced image synthesis, sound and music processing, augmented and virtual reality, and computer vision. Most of this academic work lives on private university servers, so this space is mostly for personal projects.
