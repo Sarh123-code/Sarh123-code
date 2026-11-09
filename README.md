@@ -1,22 +1,33 @@
 # Sarah RAZAFINDRAKOTO
 
-Master's student in Computer Science (Image and Sound) at the University of Bordeaux, fascinated by 3D rendering and the mathematics behind pixel transformations.
+Master's student in Computer Science (Image and Sound) at the University of Bordeaux, with a strong interest in computer graphics, 3D rendering, image processing, and immersive technologies. I enjoy exploring the mathematical and technical foundations behind visual computing, from ray tracing algorithms to virtual reality applications.
 
 ## Studies
 
-After a Bachelor's degree in Computer Science at the University of Poitiers, I joined the Image and Sound track of the Master's at Bordeaux. In the first year, I worked on 3D worlds with C++ and OpenGL, image processing in C with libimago and FFTW, and parallel programming with OpenMP. This year, I am going further with advanced image synthesis, sound and music processing, augmented and virtual reality, and computer vision. Most of this academic work lives on private university servers, so this space is mostly for personal projects.
+After completing a Bachelor's degree in Computer Science at the University of Poitiers, I joined the Image and Sound specialization of the Master's program at the University of Bordeaux.
+
+During my first year, I worked on 3D graphics using C++ and OpenGL, image processing in C with libimago and FFTW, and parallel programming with OpenMP.
+
+This year, I am further developing my skills in advanced image synthesis, sound and music processing, augmented and virtual reality, and computer vision. Most of my academic projects are hosted on private university servers, so this GitHub profile mainly showcases my personal projects and selected coursework.
 
 ## Projects
 
-### Ray Tracing Engine
-A rendering engine built from scratch, in two parts:
-- [Part 1, Fundamentals](https://sarh123-code.github.io/3D--recursive-ray-tracing/): Phong lighting, shadows, and recursive reflections.
-- [Part 2, Meshes and BVH](https://sarh123-code.github.io/3D-meshes-acceleration-structures/): 3D mesh loading with the Möller-Trumbore algorithm, and performance optimization with Bounding Volume Hierarchies.
+### 3D Computer Graphics & Ray Tracing
 
-### Image Processing Suite
-Low-level pixel manipulation in C with libimago: RGB channel decomposition, bit-depth analysis, and procedural generation.
+A rendering engine developed from scratch, covering the fundamentals of ray tracing and more advanced rendering techniques:
+
+- **[3D Recursive Ray Tracing](https://sarh123-code.github.io/3D--recursive-ray-tracing/):** Implementation of a ray tracing engine featuring Phong illumination, shadows, and recursive reflections.
+- **[3D Meshes & Acceleration Structures](https://sarh123-code.github.io/3D-meshes-acceleration-structures/):** Extension of the rendering engine with 3D mesh loading using the Möller–Trumbore algorithm and performance optimization through Bounding Volume Hierarchies (BVH).
+
+### Extended Reality (XR)
+
+- **XR Project:** An immersive 3D application developed with Godot and OpenXR, exploring virtual object manipulation through raycasting, grabbing, and Go-Go interaction techniques, as well as navigation using VR controllers.
 
 ### Games
-- **Checkers**: a complete checkers game in Java with solo mode against an AI, local multiplayer, and online multiplayer.
-- **RPG project**: a 2D adventure game in Unity (C#) with combat, inventory, zone switching, and a dynamic camera.
-- **Squash the Creeps**: a 3D game built with Godot during a course, based on an open source tutorial.
+
+- **Checkers:** A complete checkers game developed in Java, featuring single-player mode against an AI, local multiplayer, and online multiplayer.
+- **RPG Exploration Project:** A 2D adventure game developed with Unity (C#), featuring combat, inventory management, zone transitions, and a dynamic camera.
+
+---
+
+I'm always interested in exploring new techniques and building projects at the intersection of mathematics, programming, and visual computing.
